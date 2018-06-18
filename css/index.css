@@ -1,11 +1,11 @@
 body {
-background-image: url("img/cloudy_atmosphere.jpg");
+background-image: url("img/cloudy_atmosphere.png");
 }
 
 header {
     margin: 50px;
     padding: 20px;
-    background-image: url("img/fire_explosion.jpg");
+    background-image: url("img/fire_explosion.png");
 }
 
 h1 {
